@@ -1,6 +1,6 @@
 # WhatsApp Blast Bot
 
-![WhatsApp Blast Bot](bot_image.png)
+![WhatsApp Blast Bot](./img/bot_image.png)
 
 WhatsApp Blast Bot adalah sebuah bot yang digunakan untuk mengirim pesan broadcast ke banyak kontak WhatsApp sekaligus. Bot ini dibangun menggunakan Python dan WhatsApp Web Automation library.
 
